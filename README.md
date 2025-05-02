@@ -10,19 +10,7 @@ This project detects brain tumors from MRI scans using a hybrid approach of clas
 - **Classification**: Transfer learning using VGG19 and EfficientNetB0 to classify cropped tumor regions.
 - **Goal**: Improve detection accuracy beyond 71.5% by focusing only on high-intensity tumor regions.
 
-## 📁 Directory Structure
 
-```
-├── Brain MRI.zip
-├── /brain_mri/
-│   └── Brain MRI/
-│       └── Training/
-├── /segmented_tumor_dataset/
-│   ├── tumor/
-│   └── no_tumor/
-├── model_training.ipynb
-└── README.md
-```
 
 ## 📊 Train-Test Split
 
