@@ -54,5 +54,5 @@ This project detects brain tumors from MRI scans using a hybrid approach of clas
 
 ---
 
-**Authors**: Vignesh et al.  
-**License**: MIT
+**Authors**: Vignesh K 
+
